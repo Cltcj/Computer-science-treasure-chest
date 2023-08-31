@@ -5,7 +5,8 @@ categories:
 date: 2023-08-20 13:35:05
 tags:
   -	计算机书籍
-
+where:
+  - 阿里云盘
 ---
 
 ## 目录
@@ -51,7 +52,9 @@ tags:
 
 #### <span id="0、操作系统">0、操作系统</span>
 
-- 
+- [操作系统概念（原书第9版）](https://www.aliyundrive.com/s/G3LDy1of16C)
+- [深入理解计算机系统（原书第3版）](https://www.aliyundrive.com/s/eU35W7dwmxw)
+
 
 
 #### <span id="1、计算机网络">1、计算机网络</span>
