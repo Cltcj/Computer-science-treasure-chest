@@ -1,8 +1,8 @@
 ---
 title: 高质量计算机经典书籍精选
-categories: 书籍
+categories: 计算机书籍
 date: 2023-08-20 13:35:05
-tags: 计算机书籍
+tags: 高质量、经典、计算机书籍
 where: 阿里云盘
 ---
 
